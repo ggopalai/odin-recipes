@@ -1,1 +1,1 @@
-Recipe Manager to demonstrate HTML.
+Recipe Manager.
